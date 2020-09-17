@@ -1,0 +1,30 @@
+{
+  "name": "portfolio-reporting-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supercharge/strings": "^1.11.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "chance": "^1.1.7",
+    "express": "^4.17.1",
+    "fs-extra": "^9.0.1",
+    "handlebars": "^4.7.6",
+    "hbs": "^4.1.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.1",
+    "mongoose": "^5.10.3",
+    "orm": "^5.0.5",
+    "pdf-creator-node": "^1.4.1",
+    "pdfkit": "^0.11.0",
+    "puppeteer": "^5.3.0",
+    "uuid": "^8.3.0",
+    "validator": "^13.1.1"
+  }
+}
